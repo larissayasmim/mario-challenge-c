@@ -33,7 +33,7 @@
 <img align="center" height="auto" width="500" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665759966/mariochallenge/mariochallenge1_ojck3g.png"/>
 <br>
 
-## :bricks: &nbsp; Enter invalid number
+## :bricks: &nbsp; Execution
 <img align="center" height="auto" width="500" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665759896/mariochallenge/mariochallengevideo_online-video-cutter.com_gycjal.gif"/>
 <br>
 
