@@ -11,8 +11,8 @@
   </h2>
   <h4 align="center">Developed with C programming language</h4>
   <p align="center">
-  <img alt="Code size in bytes" src="https://img.shields.io/github/languages/code-size/larissayasmim/mario-challenge-c">
-  <img alt="GitHub tp language" src="https://img.shields.io/github/languages/top/larissayasmim/mario-challenge-c?color=white">
+  <img alt="Code size in bytes" src="https://img.shields.io/github/languages/code-size/larissayasmim/mario-challenge-c?color=blue">
+  <img alt="GitHub tp language" src="https://img.shields.io/github/languages/top/larissayasmim/mario-challenge-c?color=red">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361?color=blue">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/larissayasmim/mario-challenge-c?color=red">
 </p>
@@ -37,7 +37,7 @@
 <img align="center" height="auto" width="500" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665759896/mariochallenge/mariochallengevideo_online-video-cutter.com_gycjal.gif"/>
 <br>
 
-## :bricks:  &nbsp; Technologies
+## :computer:  &nbsp; Technologies
 This project was developed with the following technologies:
 
 - C
