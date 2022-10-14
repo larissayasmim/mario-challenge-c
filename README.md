@@ -1,7 +1,8 @@
 
 <p align="center">
 <br>
-  <img  width="300px" alt="Mario Titulo" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665710170/Mario/mariofinalizado-removebg-preview_liiayk.png"/>
+  <img  width="300px" alt="Mario Titulo" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665710170/Mario/mariofinalizado-removebg-preview_liiayk.png"/><br>
+  <img  width="140px" alt="Mario Titulo" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665760748/mariochallenge/super-mario__1_-removebg-preview_rj0r9r.png"/>
 </p>
 <br>
   <h2 align="center">
