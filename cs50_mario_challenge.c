@@ -3,22 +3,22 @@
 
 int main(void)
 {
-    //Pedir altura ao usuário
-    int n;
+    // User question
+    int h;
     do
     {
-        n = get_int("height: ");
+        h = get_int("height: ");
     }
-    while (n < 1 || n > 8);
+    while (h < 1 || h > 8);
 
-    //Quantidade de linhas e colunas sendo i=rows e j=columns
-    for (int i = 0; i < n; i++)
+    // Number of rows and columns
+    for (int r = 0; r < h; r++)
     {
-        for (int j = 0; j < n+i+3; j++)
+        for (int c = 0; c < h+r+3; c++)
         {
 
-            //Condição para imprimir espaço ou hashes
-            if (j == n || j == n+1 || i + j < n-1)
+            // Condition to print space or hashes
+            if (c == h || c == h+1 || r + c < h-1)
                 printf(" ");
             else
             printf("#");
